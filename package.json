@@ -1,0 +1,28 @@
+{
+  "name": "express-js-note-taker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chr1sti4n0/Express-JS-Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chr1sti4n0/Express-JS-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Chr1sti4n0/Express-JS-Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
