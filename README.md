@@ -5,6 +5,7 @@
   *[Installation](#installation)
   *[Usage](#usage)
   *[Tests](#tests)
+  *[Heroku](#heroku)
 
   ## Description 
   This project involves the use of express.js to create the backend of an application that will read a db.json file and allow for notes to be created and saved. 
@@ -35,7 +36,8 @@
   A server was initiated with node index.js and consistently ran through the use of nodemon, however, this project did not involve testing in the terminal. 
 
 #
-  ## Vimeo Demo
+  <a name='heroku'></a>
 
-#
   ## Heroku
+  https://express-js--note-taker.herokuapp.com/
+
